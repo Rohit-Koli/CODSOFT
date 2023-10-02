@@ -1,7 +1,7 @@
 package javaPackage;
 import java.util.Random; 
 import java.util.Scanner; 
-public class NumberGame {
+public class Task01NumberGame {
 
 	public static void main(String[] args) {
 		Random rm = new Random();
